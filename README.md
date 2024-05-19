@@ -12,7 +12,7 @@
 My Claster: Cluster: Cloud, Security, IoT & AI
 
 - Cloud Computing with Big Data
-- [DOTA Defense of the Ancients]()https://github.com/root-hbx/NUS_SoC/tree/main/DOTA-Defense_of_the_Ancients
+- [DOTA Defense of the Ancients](https://github.com/root-hbx/NUS_SoC/tree/main/DOTA-Defense_of_the_Ancients)
 - Robotics
 - Deep Learning
 - [Artificial Intelligence of Things](https://github.com/root-hbx/NUS_SoC/tree/main/AIoT-Artifical_Intelligence_of_Things)
@@ -30,7 +30,7 @@ I will showcase and update the entire codes in this part after finishing SoC.
 
 ### Visual Computing
 
-mainly focus on "Computational Photography" & "Pattern Recognition" & "3D Reconstruction"
+Mainly focus on "Computational Photography" & "Pattern Recognition" & "3D Reconstruction"
 
 __Background__
 
@@ -44,8 +44,8 @@ __Background__
 - Computer Graphics
 - Python or C/C++
 - [OpenCV](https://opencv.org/)
-- Numpy / Scipyor Dlib
-- PyTorch/ [Keras](https://keras.io/) / [Tensorflow](https://www.tensorflow.org/?hl=zh-cn)
+- Numpy/Scipyor Dlib
+- PyTorch/[Keras](https://keras.io/)/[Tensorflow](https://www.tensorflow.org/?hl=zh-cn)
 
 
 __Better__
@@ -82,6 +82,7 @@ Often the same security problems that occur in society re-occur today in compute
 
 
 __Prospect__
+
 In any of these, you can see that there are a wide range ofactivities (and hence jobs): 
 Information Security Engineer, IT Security Architect, IT Security Specialist, IT Security Analyst, Business Security Manager, Security Research (Technical).
 
