@@ -45,7 +45,7 @@ __Background__
 - Python or C/C++
 - [OpenCV](https://opencv.org/)
 - Numpy / Scipyor Dlib
-- PyTorc h/ [Keras](https://keras.io/) / [Tensorflow](https://www.tensorflow.org/?hl=zh-cn)
+- PyTorch/ [Keras](https://keras.io/) / [Tensorflow](https://www.tensorflow.org/?hl=zh-cn)
 
 
 __Better__
