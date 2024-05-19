@@ -12,11 +12,11 @@
 My Claster: Cluster: Cloud, Security, IoT & AI
 
 - Cloud Computing with Big Data
-- DOTA Defense of the Ancients
+- [DOTA Defense of the Ancients]()https://github.com/root-hbx/NUS_SoC/tree/main/DOTA-Defense_of_the_Ancients
 - Robotics
 - Deep Learning
-- Artificial Intelligence of Things
-- Visual Computing
+- [Artificial Intelligence of Things](https://github.com/root-hbx/NUS_SoC/tree/main/AIoT-Artifical_Intelligence_of_Things)
+- [Visual Computing](https://github.com/root-hbx/NUS_SoC/tree/main/Visual_Computing)
 
 You can learn a detailed information such as slides, codes and references in the corresponding folder.
 
