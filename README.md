@@ -88,7 +88,52 @@ Information Security Engineer, IT Security Architect, IT Security Specialist, IT
 
 ### Cloud Computing with Big Data
 
+__Roadmap__
+
+General Concepts of Cloud Computing
+
+- Cloud and cloud computing
+- Service models
+
+Virtualization Technologies
+
+- Virtual Machines
+- Containers
+
+Container Orchestration
+
+- Introduction to Kubernetes
+
+__Prerequisites__
+
+- Programming Languages, e.g., Python, Java, Go
+- Operating Systems, i.e., Linux
+- Computer Networks, e.g., L2 and L3 networking
+
+__Cloud Resources__
+
+1. Trial on real production cloud: Amazon EC2
+2. Each student will receive US$100 credits for the use of AWS services; available in July
+3. Credit card tie-in not required
+
 ### Robotics
+
+__Course Objectives__
+
+- An appreciation of embedded system platforms
+- Understand the process of incremental, modular system design
+- Ability to implement a solution that impact the physical world
 
 ### Deep Learning
 
+__Roadmap__
+
+This Part: The “brain” of the robot
+
+- Machine learning:
+    - Statistical Methods.
+    - Neural Networks.
+    - Deep Learning Networks.
+- Communications.
+    - Reverse tunnels: Control your robot from any part of the world
+    - Transport layer security
