@@ -24,7 +24,7 @@ You can learn a detailed information such as slides, codes and references in the
 
 > In Phase 2, we will be coming to NUS School of Computing to join us in an exciting on-campus learning experience. By now, we are assigned to a single course, and will be focusing on this topic by attending advanced seminars and working on a group project under the supervision of our course instructor.
 
-I will showcase and update the entire codes in this part after finishing SoC.
+You can visit our organization for the whole project [here](https://github.com/Cloud-Computing-Group-NUS)
 
 ## Basic
 
